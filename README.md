@@ -1,5 +1,6 @@
 Project Banner
-/Badges
+
+Badges
 Overview
 Vision
 Why FedMaint-AI?
